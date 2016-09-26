@@ -79,7 +79,7 @@ ZSH_AUTOSUGGEST_LAST_MODIFY_TIME=$EPOCHREALTIME
 
 # Lower bound for the time between changes that will cause autosuggest
 # to suspend suggestions for the current edit.
-ZSH_AUTOSUGGEST_CUTOFF_PERIOD=0.05
+ZSH_AUTOSUGGEST_CUTOFF_PERIOD=0.02
 
 #--------------------------------------------------------------------#
 # Handle Deprecated Variables/Widgets                                #
